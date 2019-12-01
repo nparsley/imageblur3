@@ -8,14 +8,11 @@ def blur_distance (distance)
      blur ()
    end
 end
+  
+
   #if element == 1
     #return blur
-
 #@image.each do |data|
-
-
-
-
 
 
 
